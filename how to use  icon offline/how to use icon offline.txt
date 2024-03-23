@@ -1,0 +1,14 @@
+All of first use this link
+  
+                <link rel="stylesheet" href="bootstrap-icons.css">
+
+
+we also need Font folder
+
+
+                  then write code Star from i (icon) in class name use bi- then write it's class and close i (icon) tag. 
+
+
+For Example: 
+
+           <i class="bi-activity"></i>
